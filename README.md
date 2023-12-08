@@ -43,6 +43,7 @@ Before starting, ensure you have the following installed:
    ```
 
 ## Demo
+[Video](https://drive.google.com/file/d/1bxIoCDIlReztKy24BZ8GBkbKwOfyAQme/view?usp=sharing)
 
 
 ## API Endpoints
