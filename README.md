@@ -41,6 +41,20 @@ Before starting, ensure you have the following installed:
    ```bash
    git clone git@github.com:DavidJ92/Sequelize-Retail-Engine.git
    ```
+2. Run the following command to install all required dependencies:
+```bash
+npm install
+```
+3. Set Environment Variables: Create a .env file in the root directory and configure the necessary environment variables. For example:
+```bash
+DB_NAME='your_database_name'
+DB_USER='your_database_username'
+DB_PW='your_database_password'
+```
+4. To start the server, run the following command:
+```bash
+npm start
+```
 
 ## Demo
 [Video](https://drive.google.com/file/d/1bxIoCDIlReztKy24BZ8GBkbKwOfyAQme/view?usp=sharing)
